@@ -19,5 +19,5 @@ Por el IDE situarse en el archivo: java/runner/TestRunner.java, botón derecho d
 
 3.  Reporteria
 El reporte que se genera se encuentra en la siguiente ruta dentro del proyecto:
-/Petstore/build/karate-reports/karate-summary.html (página principal del reporte)
-/Petstore/build/karate-reports/features.petstore.html (muestra los escenarios ejecutados)
+\Petstore\build\karate-reports\karate-summary.html (página principal del reporte)
+\Petstore\build\karate-reports\features.petstore.html (muestra los escenarios ejecutados)
