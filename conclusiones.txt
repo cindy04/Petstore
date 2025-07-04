@@ -1,0 +1,3 @@
+Trabajar el consumo de APIS con el framework Karate me pareció una buena práctica y usando la sintaxis Gherkin es más fácil ver los pasos.
+
+Al principio utilicé el json dentro del feature y al final optimicé el proceso para que lea de un archivo json que es más limpio y fácil de mantener
